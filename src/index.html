@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Character Creation</title>
+    <!-- Link to CSS stylesheets -->
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div id="characterCreation">
+        <h2>Create Your Character</h2>
+
+        <section id="ancestrySection">
+          <label class="labelText" for="ancestrySelector">Choose Your Ancestry:</label>
+          <select id="ancestrySelector" class="selector"></select>
+          <div><h3>Ancestry Info:</h3><p id="ancestryInfo"></p></div>
+        </section>
+
+        <section id="classSection">
+          <label class="labelText" for="classSelector">Choose Your Class:</label>
+          <select id="classSelector" class="selector"></select>
+          <div><h3>Class Info:</h3><p id="classInfo"></p></div>
+        </section>
+
+        <section id="attributesSection">
+            <button id="rollDiceButton">Roll Dice for Attributes</button>
+            <div id="attributeDisplay" class="gridContainer">
+                <h3>HEALTH (HP):</h3><span class="stats" id="hpStat"></span>
+                <h3>DEFENSE (DEF):</h3><span class="stats" id="defenseStat"></span>
+                <h3>Strength (STR):</h3><span class="stats" id="strStat"></span>
+                <h3>Dexterity (DEX):</h3><span class="stats" id="dexStat"></span>
+                <h3>Mind (MIND):</h3><span class="stats" id="mindStat"></span>
+                <h3>Charisma (CHA):</h3><span class="stats" id="chaStat"></span>
+                <h3>HIT CHANCE (HIT):</h3><span class="stats" id="hitChanceStat"></span>
+                <h3>DAMAGE (DMG):</h3><span class="stats" id="damageStat"></span>
+                <h3>SPELL SAVE (DC):</h3><span class="stats" id="spellSaveStat"></span>
+                <h3>SPELL HIT CHANCE (HIT):</h3><span class="stats" id="spellHitChanceStat"></span>
+            </div>
+        </section>
+
+        <section id="inventorySection">
+            <div id="playerInventoryContainer">
+              <h3>Inventory</h3>
+              <ul id="playerInventory"></ul>
+            </div>
+        </section>
+
+        <section id="spellsSection">
+            <div id="classSpellsContainer">
+              <h3>Spells</h3>
+              <ul id="classSpells"></ul>
+            </div>
+        </section>
+
+        <button id="createCharacterButton">Create Character</button>
+      </div>
+    </div>
+
+    <!-- Include the main script file that initializes and handles everything -->
+    <script type="module" src="./index.js"></script>
+  </body>
+</html>

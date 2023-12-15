@@ -1,0 +1,365 @@
+{
+    "SpellsData": [
+      {
+        "level": 0,
+        "name": "Dew Sparkle",
+        "description": "Creates a small, illuminating light.",
+        "effect": "Support",
+        "dice_roll": "1d4",
+        "element": "Sweet",
+        "duration_ms": 600000
+      },
+      {
+        "level": 0,
+        "name": "Seed Whisper",
+        "description": "Allows brief communication with plants.",
+        "effect": "Support",
+        "dice_roll": "1d4",
+        "element": "Crisp",
+        "duration_ms": 300000
+      },
+      {
+        "level": 0,
+        "name": "Peel Patch",
+        "description": "Provides minor healing.",
+        "effect": "Healing",
+        "dice_roll": "1d4",
+        "element": "Juicy",
+        "duration_ms": 0
+      },
+      {
+        "level": 0,
+        "name": "Zesty Zephyr",
+        "description": "Manipulates gentle winds.",
+        "effect": "Control",
+        "dice_roll": "1d4",
+        "element": "Sour",
+        "duration_ms": 60000
+      },
+      {
+        "level": 1,
+        "name": "Berry Burst",
+        "description": "Causes a small explosion of berries, damaging nearby targets.",
+        "effect": "Attack",
+        "dice_roll": "2d6",
+        "element": "Sweet",
+        "duration_ms": 0
+      },
+      {
+        "level": 1,
+        "name": "Vine Grasp",
+        "description": "Entangles a target with fast-growing vines.",
+        "effect": "Control",
+        "dice_roll": "2d6",
+        "element": "Crisp",
+        "duration_ms": 60000
+      },
+      {
+        "level": 1,
+        "name": "Juice Bolt",
+        "description": "Fires a concentrated bolt of juice energy at a target.",
+        "effect": "Attack",
+        "dice_roll": "1d8",
+        "element": "Juicy",
+        "duration_ms": 0
+      },
+      {
+        "level": 1,
+        "name": "Citrus Shield",
+        "description": "Creates a protective barrier with a citrusy scent.",
+        "effect": "Support",
+        "dice_roll": "1d6",
+        "element": "Sour",
+        "duration_ms": 300000
+      },
+  {
+    "level": 2,
+    "name": "Fruit Frenzy",
+    "description": "Induces confusion in enemies within a small area.",
+    "effect": "Control",
+    "dice_roll": "2d8",
+    "element": "Sweet",
+    "duration_ms": 120000
+  },
+  {
+    "level": 2,
+    "name": "Thorn Barricade",
+    "description": "Creates a barrier of sharp thorns.",
+    "effect": "Control",
+    "dice_roll": "2d8",
+    "element": "Crisp",
+    "duration_ms": 180000
+  },
+  {
+    "level": 2,
+    "name": "Pulp Wave",
+    "description": "Generates a wave of pulpy energy, pushing back enemies.",
+    "effect": "Attack",
+    "dice_roll": "3d6",
+    "element": "Juicy",
+    "duration_ms": 0
+  },
+  {
+    "level": 2,
+    "name": "Acidic Spray",
+    "description": "Sprays a cone of acidic juice, causing damage.",
+    "effect": "Attack",
+    "dice_roll": "3d6",
+    "element": "Sour",
+    "duration_ms": 0
+  },
+  {
+    "level": 3,
+    "name": "Blossom Blizzard",
+    "description": "Summons a storm of blossoms, damaging and slowing enemies.",
+    "effect": "Attack",
+    "dice_roll": "4d6",
+    "element": "Sweet",
+    "duration_ms": 120000
+  },
+  {
+    "level": 3,
+    "name": "Rooted Fortress",
+    "description": "Creates a strong protective barrier from roots.",
+    "effect": "Support",
+    "dice_roll": "4d6",
+    "element": "Crisp",
+    "duration_ms": 300000
+  },
+  {
+    "level": 3,
+    "name": "Healing Nectar",
+    "description": "Releases a burst of nectar that heals allies.",
+    "effect": "Healing",
+    "dice_roll": "4d8",
+    "element": "Juicy",
+    "duration_ms": 0
+  },
+  {
+    "level": 3,
+    "name": "Zest Lightning",
+    "description": "Strikes a target with a dice_rollful bolt of sour energy.",
+    "effect": "Attack",
+    "dice_roll": "4d8",
+    "element": "Sour",
+    "duration_ms": 0
+  },
+  {
+    "level": 4,
+    "name": "Fruitful Bounty",
+    "description": "Enhances growth in an area, healing and nourishing.",
+    "effect": "Healing",
+    "dice_roll": "5d6",
+    "element": "Sweet",
+    "duration_ms": 600000
+  },
+  {
+    "level": 4,
+    "name": "Branch Lattice",
+    "description": "Creates a lattice of branches to imprison or form a barrier.",
+    "effect": "Control",
+    "dice_roll": "5d6",
+    "element": "Crisp",
+    "duration_ms": 360000
+  },
+  {
+    "level": 4,
+    "name": "Juice Tsunami",
+    "description": "Unleashes a massive wave of juice, causing damage and knockback.",
+    "effect": "Attack",
+    "dice_roll": "5d8",
+    "element": "Juicy",
+    "duration_ms": 0
+  },
+  {
+    "level": 4,
+    "name": "Sour Storm",
+    "description": "Summons a storm of sour energy, damaging and debuffing enemies.",
+    "effect": "Attack",
+    "dice_roll": "5d8",
+    "element": "Sour",
+    "duration_ms": 180000
+  },
+  {
+    "level": 5,
+    "name": "Orchard's Wrath",
+    "description": "Summons nature spirits to aid in battle.",
+    "effect": "Support",
+    "dice_roll": "6d6",
+    "element": "Sweet",
+    "duration_ms": 300000
+  },
+  {
+    "level": 5,
+    "name": "Timber Crash",
+    "description": "Causes trees to fall, creating obstacles and damaging enemies.",
+    "effect": "Control",
+    "dice_roll": "6d6",
+    "element": "Crisp",
+    "duration_ms": 0
+  },
+  {
+    "level": 5,
+    "name": "Revitalizing Rain",
+    "description": "Summons a healing rain that rejuvenates allies.",
+    "effect": "Healing",
+    "dice_roll": "6d8",
+    "element": "Juicy",
+    "duration_ms": 300000
+  },
+  {
+    "level": 5,
+    "name": "Citrus Cyclone",
+    "description": "Creates a massive cyclone of citrus energy, causing widespread damage.",
+    "effect": "Attack",
+    "dice_roll": "6d8",
+    "element": "Sour",
+    "duration_ms": 0
+  },
+  {
+    "level": 6,
+    "name": "Vine Labyrinth",
+    "description": "Creates a complex maze of vines.",
+    "effect": "Control",
+    "dice_roll": "7d6",
+    "element": "Crisp",
+    "duration_ms": 600000
+  },
+  {
+    "level": 6,
+    "name": "Grove Guardian",
+    "description": "Summons a dice_rollful nature spirit to protect an area.",
+    "effect": "Support",
+    "dice_roll": "7d6",
+    "element": "Sweet",
+    "duration_ms": 360000
+  },
+  {
+    "level": 6,
+    "name": "Nectar Deluge",
+    "description": "Floods an area with healing nectar.",
+    "effect": "Healing",
+    "dice_roll": "7d8",
+    "element": "Juicy",
+    "duration_ms": 0
+  },
+  {
+    "level": 6,
+    "name": "Acid Rainstorm",
+    "description": "Summons a storm of acidic rain, causing widespread damage.",
+    "effect": "Attack",
+    "dice_roll": "7d8",
+    "element": "Sour",
+    "duration_ms": 300000
+  },
+  {
+    "level": 7,
+    "name": "Bountiful Harvest",
+    "description": "Instantly grows and harvests crops, providing sustenance.",
+    "effect": "Support",
+    "dice_roll": "8d6",
+    "element": "Sweet",
+    "duration_ms": 0
+  },
+  {
+    "level": 7,
+    "name": "Entangling Grove",
+    "description": "Transforms an area into a grove that entangles and hinders enemies.",
+    "effect": "Control",
+    "dice_roll": "8d6",
+    "element": "Crisp",
+    "duration_ms": 600000
+  },
+  {
+    "level": 7,
+    "name": "Juicy Resurgence",
+    "description": "Revives and fully heals fallen allies in an area.",
+    "effect": "Healing",
+    "dice_roll": "8d8",
+    "element": "Juicy",
+    "duration_ms": 0
+  },
+  {
+    "level": 7,
+    "name": "Sour Shockwave",
+    "description": "Unleashes a devastating shockwave of sour energy.",
+    "effect": "Attack",
+    "dice_roll": "8d8",
+    "element": "Sour",
+    "duration_ms": 0
+  },
+
+  {
+    "level": 8,
+    "name": "Orchard Oasis",
+    "description": "Creates a large, nourishing oasis that heals and rejuvenates.",
+    "effect": "Healing",
+    "dice_roll": "9d6",
+    "element": "Juicy",
+    "duration_ms": 3600000
+  },
+  {
+    "level": 8,
+    "name": "Thorn Tempest",
+    "description": "Summons a tempest of thorns, causing massive damage and control.",
+    "effect": "Attack",
+    "dice_roll": "9d6",
+    "element": "Crisp",
+    "duration_ms": 300000
+  },
+  {
+    "level": 8,
+    "name": "Fruitful Mirage",
+    "description": "Creates a large illusory area that can hide or confuse.",
+    "effect": "Control",
+    "dice_roll": "9d6",
+    "element": "Sweet",
+    "duration_ms": 600000
+  },
+  {
+    "level": 8,
+    "name": "Citrus Vortex",
+    "description": "Creates a dice_rollful vortex of sour energy, pulling and damaging enemies.",
+    "effect": "Attack",
+    "dice_roll": "9d8",
+    "element": "Sour",
+    "duration_ms": 0
+  },
+  {
+    "level": 9,
+    "name": "Eternal Orchard",
+    "description": "Summons a mystical orchard that provides endless sustenance and healing.",
+    "effect": "Healing",
+    "dice_roll": "10d6",
+    "element": "Sweet",
+    "duration_ms": 7200000
+  },
+  {
+    "level": 9,
+    "name": "Nature's Cataclysm",
+    "description": "Unleashes a cataclysmic force of nature, causing extreme damage and control.",
+    "effect": "Attack",
+    "dice_roll": "10d6",
+    "element": "Crisp",
+    "duration_ms": 0
+  },
+  {
+    "level": 9,
+    "name": "Juice Monsoon",
+    "description": "Creates a monsoon of rejuvenating juice, healing and cleansing a vast area.",
+    "effect": "Healing",
+    "dice_roll": "10d8",
+    "element": "Juicy",
+    "duration_ms": 0
+  },
+  {
+    "level": 9,
+    "name": "Sour Apocalypse",
+    "description": "Unleashes a devastating sour energy blast, affecting a large area.",
+    "effect": "Attack",
+    "dice_roll": "10d8",
+    "element": "Sour",
+    "duration_ms": 0
+  }
+]
+}

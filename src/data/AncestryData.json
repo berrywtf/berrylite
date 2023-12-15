@@ -1,0 +1,49 @@
+{
+  "AncestryData": {
+    "Applekin": {
+      "description": "Known for their balanced nature, excelling in both physical and mental challenges with versatility.",
+      "bonuses": {
+        "strength": 1,
+        "dexterity": 1
+      },
+      "element": "Crisp"
+    },
+    "Berryfolk": {
+      "description": "Small and agile, quick thinkers and movers, using their compact size to their advantage.",
+      "bonuses": {
+        "dexterity": 2
+      },
+      "element": "Juicy"
+    },
+    "Citrusoid": {
+      "description": "Bright and charismatic with a sharp wit, making them natural leaders and communicators.",
+      "bonuses": {
+        "mind": 1,
+        "charisma": 1
+      },
+      "element": "Sour"
+    },
+    "Melonling": {
+      "description": "Dependable and resilient with a strong build, often serving as a sturdy backbone.",
+      "bonuses": {
+        "strength": 2
+      },
+      "element": "Juicy"
+    },
+    "Grapeseed": {
+      "description": "Enigmatic and wise, excelling in tasks requiring deep thought and strategy.",
+      "bonuses": {
+        "mind": 2
+      },
+      "element": "Crisp"
+    },
+    "Bananaian": {
+      "description": "Flexible and humorous, adept at adapting to changing situations with charm and wit.",
+      "bonuses": {
+        "dexterity": 1,
+        "charisma": 1
+      },
+      "element": "Sweet"
+    }
+  }
+}

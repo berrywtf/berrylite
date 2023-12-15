@@ -1,0 +1,104 @@
+{
+  "ClassesData": {
+    "Juicer": {
+      "description": "Experts in extracting essence, adept at getting information or crafting concoctions.",
+      "armor": "light",
+      "stat_bonus": {"mind": 2},
+      "abilities": [
+        {
+          "name": "Essence Extraction",
+          "effect": "Bonus on essence extraction rolls",
+          "formula": "mind_modifier + level"
+        },
+        {
+          "name": "Vitality Surge",
+          "effect": "Create a healing elixir",
+          "formula": "level + mind_modifier",
+          "uses_per_combat": "1 + (level / 4)"
+        }
+      ],
+      "spells": ["Zesty Zephyr", "Berry Burst"]
+    },
+    "Peeler": {
+      "description": "Specialize in uncovering hidden layers and secrets, working behind the scenes.",
+      "armor": "medium",
+      "stat_bonus": {"dexterity": 2},
+      "abilities": [
+        {
+          "name": "Stealth Unveil",
+          "effect": "Bonus on stealth rolls",
+          "formula": "dexterity_modifier + level"
+        },
+        {
+          "name": "Quick Peel",
+          "effect": "Swift attack with bonus to hit",
+          "formula": "level + dexterity_modifier",
+          "uses_per_combat": 1
+        }
+      ],
+      "spells": []
+    },
+    "Slicer": {
+      "description": "Quick and precise warriors, preferring agility and sharp tactics over brute strength.",
+      "armor": "light",
+      "shield": true,
+      "stat_bonus": {"dexterity": 2},
+      "abilities": [
+        {
+          "name": "Razor Edge",
+          "effect": "Bonus on attack rolls with bladed weapons",
+          "formula": "dexterity_modifier + level"
+        },
+        {
+          "name": "Swift Strike",
+          "effect": "Additional attack after downing an opponent",
+          "formula": "level",
+          "uses_per_combat": 1
+        }
+      ],
+      "spells": []
+    },
+    "Ripener": {
+      "description": "Masters of growth and nurturing, seen as healers and mentors.",
+      "armor": "medium",
+      "stat_bonus": {"charisma": 2},
+      "abilities": [
+        {
+          "name": "Growth Infusion",
+          "effect": "Enhance plant growth or healing",
+          "formula": "level + charisma_modifier",
+          "uses_per_day": "1 + (level / 4)"
+        }
+      ],
+      "spells": ["Peel Patch"]
+    },
+    "Harvester": {
+      "description": "Skilled in gathering resources and information, adept at acquiring what is needed.",
+      "armor": "heavy",
+      "shield": true,
+      "stat_bonus": {"strength": 2},
+      "abilities": [
+        {
+          "name": "Resourceful Gathering",
+          "effect": "Bonus on harvesting/gathering rolls",
+          "formula": "strength_modifier + level"
+        }
+      ]
+    },
+    "Seedcaster": {
+      "description": "Visionary and strategic, planting the seeds of future success with deep insight and foresight.",
+      "armor": "light",
+      "stat_bonus": {"mind": 2},
+      "abilities": [
+        {
+          "name": "Seed Manipulation",
+          "effect": "Control plant growth",
+          "formula": "mind_modifier + level",
+          "uses_per_day": "1 + (level / 4)"
+        }
+      ],
+      "spells": ["Seed Whisper"]
+      
+    }
+  }
+}

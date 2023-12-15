@@ -1,0 +1,78 @@
+{
+    "Character": {
+      "name": "",
+      "gender": "",
+      "ancestry": "",
+      "height": "",
+      "weight": "",
+      "hair": "",
+      "eyes": "",
+      "ancestryAbilityBP": 0,
+      "backgroundsBP": 0,
+      "class": {
+        "name": "",
+        "level": 0,
+        "experience": 0
+      },
+      "items": [],
+      "stats": {
+        "strength": {
+          "score": 0,
+          "modifier": 0
+        },
+        "agility": {
+          "score": 0,
+          "modifier": 0
+        },
+        "mind": {
+          "score": 0,
+          "modifier": 0
+        },
+        "charisma": {
+          "score": 0,
+          "modifier": 0
+        }
+      },
+      "vitals": {
+        "currentWoundPoints": 0,
+        "maxWoundPoints": 0,
+        "hitPoints": 0
+      },
+      "initiative": 0,
+      "armorClass": 0,
+      "shieldACBonus": 0,
+      "armorACBonus": 0,
+      "attacks": {
+        "combatBonus": 0,
+        "magicCombatBonus": 0,
+        "melee": 0,
+        "finesse": 0,
+        "ranged": 0,
+        "magic": 0
+      },
+      "weapons": [],
+      "equipment": [],
+      "classAbilities": [],
+      "spells": {
+        "level0": [],
+        "level1": [],
+        "level2": [],
+        "level3": [],
+        "level4": [],
+        "level5": [],
+        "level6": [],
+        "level7": [],
+        "level8": [],
+        "level9": []
+      },
+      "wealth": {
+        "pomegranium": 0, 
+        "goldenberrium": 0, 
+        "silverpeelium": 0,   
+        "copperseedium": 0    
+      },
+      "inventory": [],
+      "notes": ""
+    }
+  }
+  

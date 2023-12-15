@@ -1,0 +1,343 @@
+{
+  "WeaponsData": [
+    {
+    "Two-Handed": [
+    {
+      "name": "Thorned Vine Chain",
+      "cost": "25s",
+      "description": "A chain of spiked vines, perfect for entangling and piercing.",
+      "dice_roll": "2d4",
+      "range": "Melee"
+    },
+    {
+      "name": "Melonblade",
+      "cost": "75s",
+      "description": "A heavy, melon-shaped blade that delivers juicy cuts.",
+      "dice_roll": "1d6",
+      "range": "Melee"
+    },
+    {
+      "name": "Berry Flail",
+      "cost": "15s",
+      "description": "A flail with berry-shaped knots, combining sweetness with impact.",
+      "dice_roll": "1d8",
+      "range": "Melee"
+    },
+    {
+      "name": "Glaive of the Grove",
+      "cost": "8s",
+      "description": "A long, leaf-bladed glaive, as elegant as it is sharp.",
+      "dice_roll": "1d8",
+      "range": "Melee"
+    },
+    {
+      "name": "Great Axe of Orchard's Might",
+      "cost": "20s",
+      "description": "A large axe, ideal for chopping more than just trees.",
+      "dice_roll": "1d10",
+      "range": "Melee"
+    },
+    {
+      "name": "Great Club of the Orchard",
+      "cost": "5s",
+      "description": "A hefty club made from the sturdiest branch of an ancient tree.",
+      "dice_roll": "1d8",
+      "range": "Melee"
+    },
+    {
+      "name": "Sword of the Grand Harvest",
+      "cost": "50s",
+      "description": "A majestic sword that reaps enemies as if they were ripe fruits.",
+      "dice_roll": "2d6",
+      "range": "Melee"
+    },
+    {
+      "name": "Guisarme of Vines",
+      "cost": "9s",
+      "description": "A polearm with a curved blade, entwined with thorny vines.",
+      "dice_roll": "2d4",
+      "range": "Melee"
+    },
+    {
+      "name": "Halberd of the Treetop Sentinel",
+      "cost": "10s",
+      "description": "A versatile halberd for guarding the sacred groves.",
+      "dice_roll": "1d10",
+      "range": "Melee"
+    },
+    {
+      "name": "Lance of the Citrus Knight",
+      "cost": "10s",
+      "description": "A lance as sharp as a citrus thorn, used by the bravest fruit knights.",
+      "dice_roll": "1d8",
+      "range": "Melee"
+    },
+    {
+      "name": "Long Spear of the Berry Guard",
+      "cost": "5s",
+      "description": "A long spear used to protect berry fields from intruders.",
+      "dice_roll": "1d8",
+      "range": "Melee"
+    }]},
+    {
+    "Light": [
+    {
+      "name": "Quarterstaff of the Orchard Sage",
+      "cost": "0c",
+      "description": "A simple yet powerful staff, imbued with the wisdom of the orchard.",
+      "dice_roll": "1d6",
+      "range": "Melee"
+    },
+    {
+      "name": "Scythe of the Harvest Moon",
+      "cost": "18s",
+      "description": "A scythe that glows under the harvest moon, reaping more than just crops.",
+      "dice_roll": "2d4",
+      "range": "Melee"
+    },
+    {
+      "name": "Spear of the Thorned Grove",
+      "cost": "2s",
+      "description": "A trusty spear with a thorn-like tip, perfect for quick thrusts.",
+      "dice_roll": "1d8",
+      "range": "Ranged"
+    },
+    {
+      "name": "Throwing Axe of the Windy Orchard",
+      "cost": "8s",
+      "description": "A light axe designed for throwing, whistling through the air like a brisk wind.",
+      "dice_roll": "1d6",
+      "range": "Ranged"
+    },
+    {
+      "name": "Dagger of the Swift Cut",
+      "cost": "2s",
+      "description": "A small, sharp dagger, ideal for quick, precise cuts.",
+      "dice_roll": "1d4",
+      "range": "Ranged"
+    },
+    {
+      "name": "Light Hammer of the Sun's Forge",
+      "cost": "1s",
+      "description": "A light hammer imbued with the warmth of the sun, perfect for quick strikes.",
+      "dice_roll": "1d6",
+      "range": "Ranged"
+    },
+    {
+      "name": "Hand Axe of the Pruning Artist",
+      "cost": "6s",
+      "description": "A hand axe used for delicate pruning, or less delicate combat.",
+      "dice_roll": "1d4",
+      "range": "Melee"
+    },
+    {
+      "name": "Light Mace of the Morning Dew",
+      "cost": "5s",
+      "description": "A mace that strikes as refreshingly as the morning dew.",
+      "dice_roll": "1d6",
+      "range": "Melee"
+    },
+    {
+      "name": "Light Pick of the Seedling",
+      "cost": "4s",
+      "description": "A small pick used for careful extraction of seeds and sometimes for combat.",
+      "dice_roll": "1d4",
+      "range": "Melee"
+    },
+    {
+      "name": "Sap of the Sweet Sleep",
+      "cost": "1s",
+      "description": "A weapon that can knock an opponent out as gently as falling asleep in a field of flowers.",
+      "dice_roll": "1d6",
+      "range": "Melee"
+    },
+    {
+      "name": "Sickle of the Crescent Moon",
+      "cost": "6s",
+      "description": "A sickle shaped like a crescent moon, ideal for reaping in the cool night.",
+      "dice_roll": "1d6",
+      "range": "Melee"
+    },
+    {
+      "name": "Short Sword of the Nimble Vine",
+      "cost": "10s",
+      "description": "A short sword that moves with the grace and unpredictability of a vine.",
+      "dice_roll": "1d6",
+      "range": "Melee"
+    },
+    {
+      "name": "Battle Axe of the Forest Warrior",
+      "cost": "10s",
+      "description": "A sturdy battle axe that tells tales of many forest skirmishes.",
+      "dice_roll": "1d8",
+      "range": "Melee"
+    },
+    {
+      "name": "Club of the Wild Orchard",
+      "cost": "0c",
+      "description": "A simple club made from a robust branch, as natural as it is effective.",
+      "dice_roll": "1d6",
+      "range": "Ranged"
+    },
+    {
+      "name": "Flail of the Berry Tangle",
+      "cost": "8s",
+      "description": "A flail with heads like tangled berries, unpredictable and dangerous.",
+      "dice_roll": "1d8",
+      "range": "Melee"
+    }]},
+    {
+    "One-Handed": [
+    {
+      "name": "Longsword of the Fruit Knight",
+      "cost": "15s",
+      "description": "A longsword wielded by the noble protectors of the fruit realms.",
+      "dice_roll": "1d8",
+      "range": "Melee"
+    },
+    {
+      "name": "Heavy Mace of the Orchard's Might",
+      "cost": "12s",
+      "description": "A heavy mace that embodies the strength and resilience of the orchard.",
+      "dice_roll": "1d8",
+      "range": "Melee"
+    },
+    {
+      "name": "Morningstar of the Dawn's Light",
+      "cost": "8s",
+      "description": "A morningstar that shines as bright and fierce as the first light of dawn.",
+      "dice_roll": "1d8",
+      "range": "Melee"
+    },
+    {
+      "name": "Heavy Pick of the Deep Roots",
+      "cost": "8s",
+      "description": "A pick designed to penetrate as deeply as the roots of an ancient tree.",
+      "dice_roll": "1d6",
+      "range": "Melee"
+    },
+    {
+      "name": "Rapier of the Swift Thorn",
+      "cost": "20s",
+      "description": "A rapier as quick and sharp as a thorn, perfect for swift strikes.",
+      "dice_roll": "1d6",
+      "range": "Melee"
+    },
+    {
+      "name": "Scimitar of the Wind's Curve",
+      "cost": "15s",
+      "description": "A curved scimitar that slices as effortlessly as the wind through leaves.",
+      "dice_roll": "1d6",
+      "range": "Melee"
+    },
+    {
+      "name": "Short Spear of the Sprout",
+      "cost": "1s",
+      "description": "A short spear, easy to handle and ideal for quick jabs.",
+      "dice_roll": "1d6",
+      "range": "Ranged"
+    },
+    {
+      "name": "Bastard Sword of the Mixed Orchard",
+      "cost": "35s",
+      "description": "A versatile sword, as varied in its use as the fruits in a mixed orchard.",
+      "dice_roll": "1d10",
+      "range": "Melee"
+    },
+    {
+      "name": "Trident of the Tidal Grove",
+      "cost": "15s",
+      "description": "A trident that channels the power of water, as vital to life as the grove itself.",
+      "dice_roll": "1d8",
+      "range": "Melee"
+    },
+    {
+      "name": "War Axe of the Ancient Tree",
+      "cost": "30s",
+      "description": "A war axe as old and formidable as the oldest tree in the forest.",
+      "dice_roll": "1d10",
+      "range": "Melee"
+    },
+    {
+      "name": "Warhammer of the Stone Fruit",
+      "cost": "12s",
+      "description": "A warhammer as hard and unyielding as the pit of a stone fruit.",
+      "dice_roll": "1d8",
+      "range": "Melee"
+    },
+    {
+      "name": "Whip of the Vine's Lash",
+      "cost": "1s",
+      "description": "A whip that lashes out as quickly and unpredictably as a wild vine.",
+      "dice_roll": "1d3",
+      "range": "Melee"
+    }]},
+    {
+    "Ranged": [
+    {
+      "name": "Hand Crossbow of the Nimble Shoot",
+      "cost": "100s",
+      "description": "A small crossbow, quick to load and fire, like the swift shoot of a new plant.",
+      "dice_roll": "1d4",
+      "range": "Ranged"
+    },
+    {
+      "name": "Heavy Crossbow of the Mighty Branch",
+      "cost": "50s",
+      "description": "A heavy crossbow with the strength and sturdiness of a mighty tree branch.",
+      "dice_roll": "1d10",
+      "range": "Ranged"
+    },
+    {
+      "name": "Light Crossbow of the Sprightly Twig",
+      "cost": "35s",
+      "description": "A light crossbow, easy to handle and quick to shoot, like a sprightly twig.",
+      "dice_roll": "1d8",
+      "range": "Ranged"
+    },
+    {
+      "name": "Dart of the Swift Seed",
+      "cost": "0.5s",
+      "description": "A small dart, light and fast like a seed carried by the wind.",
+      "dice_roll": "1d4",
+      "range": "Ranged"
+    },
+    {
+      "name": "Javelin of the Soaring Fruit",
+      "cost": "1s",
+      "description": "A javelin that flies through the air as gracefully as a fruit falling from a tree.",
+      "dice_roll": "1d6",
+      "range": "Ranged"
+    },
+    {
+      "name": "Longbow of the Tall Tree",
+      "cost": "75s",
+      "description": "A longbow as tall and strong as the trees from which it was crafted.",
+      "dice_roll": "1d8",
+      "range": "Ranged"
+    },
+    {
+      "name": "Net of the Entangling Vines",
+      "cost": "20s",
+      "description": "A net that entangles like the vines of a dense thicket.",
+      "dice_roll": "0",
+      "range": "Ranged"
+    },
+    {
+      "name": "Shortbow of the Young Sapling",
+      "cost": "30s",
+      "description": "A shortbow, flexible and resilient like a young sapling.",
+      "dice_roll": "1d6",
+      "range": "Ranged"
+    },
+    {
+      "name": "Sling of the Stone Fruit",
+      "cost": "0c",
+      "description": "A simple sling, perfect for hurling small, hard fruits or stones.",
+      "dice_roll": "1d4",
+      "range": "Ranged"
+    }
+  ]
+}
+]
+}

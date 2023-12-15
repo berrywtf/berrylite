@@ -1,0 +1,177 @@
+{
+  "BackgroundsData": {
+    "Orchard Tactician": {
+      "description": "Skilled in strategy and resource management.",
+      "bonus": {
+        "type": "strategy_roll",
+        "formula": "level / 2",
+        "stat_dependency": "none"
+      }},
+      "Fruit Artisan": {
+      "description": "Expert in crafting with fruit-based materials.",
+      "bonus": {
+        "type": "crafting_roll",
+        "formula": "mind_modifier",
+        "stat_dependency": "mind"
+      }
+    },
+  
+     "Grove Keeper": {
+      "description": "Protector of natural spaces and plant life.",
+      "bonus": {
+        "type": "environmental_protection",
+        "formula": "level / 3",
+        "stat_dependency": "mind"
+      }
+    },
+    "Juice Brewer": {
+      "description": "Specialist in creating juices, brews, and elixirs.",
+      "bonus": {
+        "type": "brewing_roll",
+        "formula": "mind_modifier",
+        "stat_dependency": "mind"
+      }
+    },
+     "Seed Scholar": {
+      "description": "Knowledgeable in seeds, plants, and their properties.",
+      "bonus": {
+        "type": "botany_knowledge",
+        "formula": "mind_modifier",
+        "stat_dependency": "mind"
+      }
+    },
+     "Vine Acrobat": {
+      "description": "Agile and skilled in navigating through foliage.",
+      "bonus": {
+        "type": "acrobatics_roll",
+        "formula": "dexterity_modifier",
+        "stat_dependency": "dexterity"
+      }
+    },
+      "Market Trader": {
+      "description": "Adept in commerce and trade negotiations.",
+      "bonus": {
+        "type": "trade_roll",
+        "formula": "charisma_modifier",
+        "stat_dependency": "charisma"
+      }
+    },
+    
+       "Pulp Medic": {
+      "description": "Proficient in fruit-based medicine and healing.",
+      "bonus": {
+        "type": "healing_roll",
+        "formula": "mind_modifier",
+        "stat_dependency": "mind"
+      }
+    },
+
+    
+       "Peel Spy": {
+      "description": "Stealthy and cunning, adept at gathering information and espionage.",
+      "bonus": {
+        "type": "stealth_roll",
+        "formula": "dexterity_modifier",
+        "stat_dependency": "dexterity"
+      }
+    },
+    
+       "Rind Warrior": {
+      "description": "Trained in combat, particularly in defending orchards and groves.",
+      "bonus": {
+        "type": "combat_roll",
+        "formula": "strength_modifier",
+        "stat_dependency": "strength"
+      }
+    },
+    
+       "Thorn Hunter": {
+      "description": "Specialized in tracking and dealing with pests or threats to ecosystems.",
+      "bonus": {
+        "type": "tracking_roll",
+        "formula": "mind_modifier",
+        "stat_dependency": "mind"
+      }
+    },
+    
+       "Blossom Bard": {
+      "description": "Entertainer and storyteller, captivating audiences with fruit-themed tales and songs.",
+      "bonus": {
+        "type": "performance_roll",
+        "formula": "charisma_modifier",
+        "stat_dependency": "charisma"
+      }
+    },
+    
+       "Zest Chef": {
+      "description": "Culinary expert, creating delicious and nutritious meals from various fruits.",
+      "bonus": {
+        "type": "cooking_roll",
+        "formula": "mind_modifier",
+        "stat_dependency": "mind"
+      }
+    },
+    
+       "Sprout Druid": {
+      "description": "Connected to the natural world, able to communicate with and influence plant life.",
+      "bonus": {
+        "type": "nature_communication",
+        "formula": "mind_modifier",
+        "stat_dependency": "mind"
+      }
+    },
+    
+       "Harvest Laborer": {
+      "description": "Hardworking and enduring, experienced in the physical aspects of harvesting.",
+      "bonus": {
+        "type": "labor_roll",
+        "formula": "strength_modifier",
+        "stat_dependency": "strength"
+      }
+    },
+    
+       "Berry Scout": {
+      "description": "Explorer and pathfinder, adept at navigating through the wilderness.",
+      "bonus": {
+        "type": "exploration_roll",
+        "formula": "dexterity_modifier",
+        "stat_dependency": "dexterity"
+      }
+    },
+    
+       "Citrus Diplomat": {
+      "description": "Eloquent and persuasive, skilled in diplomacy and conflict resolution.",
+      "bonus": {
+        "type": "diplomacy_roll",
+        "formula": "charisma_modifier",
+        "stat_dependency": "charisma"
+      }
+    },
+    
+       "Melon Guard": {
+      "description": "Protector and security expert, ensuring the safety of fruit communities.",
+      "bonus": {
+        "type": "security_roll",
+        "formula": "strength_modifier",
+        "stat_dependency": "strength"
+      }
+    },
+    
+       "Graft Innovator": {
+      "description": "Creative and experimental, adept at combining different plant traits.",
+      "bonus": {
+        "type": "innovation_roll",
+        "formula": "mind_modifier",
+        "stat_dependency": "mind"
+      }
+    },
+    
+       "Worm Whisperer": {
+      "description": "Unique ability to communicate with and control worms and other small creatures.",
+      "bonus": {
+        "type": "animal_handling_roll",
+        "formula": "charisma_modifier",
+        "stat_dependency": "charisma"
+      }
+    }
+  }}

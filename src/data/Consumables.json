@@ -1,0 +1,89 @@
+{
+    "Consumables": [
+      {
+        "name": "Healing Berry Juice",
+        "type": "consumable",
+        "description": "A refreshing juice that heals minor wounds.",
+        "effect": "healing",
+        "hp_restore": 10,
+        "cost": "5s"
+      },
+      {
+        "name": "Elixir of Vine Insight",
+        "type": "consumable",
+        "description": "A mystical elixir that temporarily boosts mental acuity.",
+        "effect": "mind_boost",
+        "boost_value": 3,
+        "duration_ms": 10800000, 
+        "cost": "15s"
+      },
+      {
+        "name": "Invisibility Grape Extract",
+        "type": "consumable",
+        "description": "A rare extract that grants temporary invisibility.",
+        "effect": "invisibility",
+        "duration_ms": 300000, 
+        "cost": "20s"
+      },
+      {
+        "name": "Energy Citrus",
+        "type": "consumable",
+        "description": "A zesty fruit that restores energy and reduces fatigue.",
+        "effect": "energy_restore",
+        "energy_value": 15,
+        "cost": "10s"
+      },
+      {
+        "name": "Clarity Watermelon Water",
+        "type": "consumable",
+        "description": "Water extracted from a clarity watermelon, enhancing focus.",
+        "effect": "cha_boost",
+        "boost_value": 3,
+        "duration_ms": 7200000,
+        "cost": "12s"
+      },
+      {
+        "name": "Arcane Berry Scroll",
+        "type": "consumable",
+        "description": "A scroll containing a single-use powerful spell from the berry realm.",
+        "effect": "spell_cast",
+        "spell_level": "random_high",
+        "cost": "50s"
+      },
+      {
+        "name": "Thorn Trap Kit",
+        "type": "consumable",
+        "description": "A kit for setting up a quick and effective thorn trap.",
+        "effect": "trap_set",
+        "trap_damage": "2d6",
+        "cost": "8s"
+      },
+      {
+        "name": "Fruit Camouflage Paint",
+        "type": "consumable",
+        "description": "Paint for blending into fruity environments.",
+        "effect": "stealth_boost",
+        "boost_value": 2,
+        "duration_ms": 3600000,
+        "cost": "6s"
+      },
+      {
+        "name": "Root Binding Rope",
+        "type": "consumable",
+        "description": "A rope that can entangle and bind when activated.",
+        "effect": "entangle",
+        "duration_ms": 600000,
+        "cost": "7s"
+      },
+      {
+        "name": "Sap Sticky Bomb",
+        "type": "consumable",
+        "description": "A bomb that explodes into sticky sap, immobilizing targets.",
+        "effect": "immobilize",
+        "area_of_effect": "3m_radius",
+        "duration_ms": 300000, 
+        "cost": "15s"
+      }
+    ]
+  }
+  

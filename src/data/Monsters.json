@@ -1,0 +1,424 @@
+{
+  "Monsters": [
+    {
+      "name": "Pint-Sized Pineapple",
+      "level": 0,
+      "hp": 3,
+      "armorClass": 12,
+      "attackBonus": 2,
+      "damageDice": "1d4",
+      "damageBonus": 1,
+      "description": "The tiniest and cutest member of the FruitPunk gang."
+    },
+    {
+      "name": "Banana Bandit",
+      "level": 0,
+      "hp": 4,
+      "armorClass": 13,
+      "attackBonus": 3,
+      "damageDice": "1d6",
+      "description": "This mischievous banana is always up to no good."
+    },
+    {
+      "name": "Cherry Chomper",
+      "level": 0,
+      "hp": 2,
+      "armorClass": 11,
+      "attackBonus": 1,
+      "damageDice": "1d4",
+      "description": "Tiny but ferocious, this cherry is out for a bite."
+    },
+    {
+      "name": "Grape Grouch",
+      "level": 0,
+      "hp": 4,
+      "armorClass": 12,
+      "attackBonus": 2,
+      "damageDice": "1d4",
+      "description": "This sour grape is known for its grumpy demeanor."
+    },
+    {
+      "name": "Lettuce Lemon",
+      "level": 1,
+      "hp": 10,
+      "armorClass": 14,
+      "attackBonus": 4,
+      "damageDice": "1d8",
+      "description": "A lemon with a leafy twist, always ready for action."
+    },
+    {
+      "name": "Pineapple Pummeler",
+      "level": 1,
+      "hp": 12,
+      "armorClass": 15,
+      "attackBonus": 5,
+      "damageDice": "1d10",
+      "description": "This pineapple packs a punch with its spiky exterior."
+    },
+    {
+      "name": "Mango Menace",
+      "level": 1,
+      "hp": 8,
+      "armorClass": 13,
+      "attackBonus": 4,
+      "damageDice": "1d6",
+      "description": "A mango with a taste for chaos and destruction."
+    },
+    {
+      "name": "Strawberry Scrapper",
+      "level": 1,
+      "hp": 6,
+      "armorClass": 12,
+      "attackBonus": 3,
+      "damageDice": "1d6",
+      "description": "Tiny but fierce, this strawberry knows how to brawl."
+    },
+    {
+      "name": "Coconut Commando",
+      "level": 2,
+      "hp": 20,
+      "armorClass": 16,
+      "attackBonus": 7,
+      "damageDice": "1d12",
+      "description": "A tough nut to crack, this coconut leads the charge."
+    },
+    {
+      "name": "Watermelon Warrior",
+      "level": 2,
+      "hp": 18,
+      "armorClass": 15,
+      "attackBonus": 6,
+      "damageDice": "1d10",
+      "description": "This watermelon is a fearless defender of the orchard."
+    },
+    {
+      "name": "Blueberry Brawler",
+      "level": 2,
+      "hp": 20,
+      "armorClass": 14,
+      "attackBonus": 7,
+      "damageDice": "1d8",
+      "damageBonus": 3,
+      "description": "A small but feisty blueberry with a knack for scrapping with larger opponents."
+    },
+    {
+      "name": "Grapes of Wrath",
+      "level": 2,
+      "hp": 16,
+      "armorClass": 14,
+      "attackBonus": 6,
+      "damageDice": "1d8",
+      "description": "A bunch of grapes with a serious temper problem."
+    },
+    {
+      "name": "Peach Punisher",
+      "level": 2,
+      "hp": 22,
+      "armorClass": 17,
+      "attackBonus": 8,
+      "damageDice": "2d6",
+      "description": "This peach is not as sweet as it seems - it's a stone-cold fighter."
+    },
+    {
+      "name": "Blueberry Brawler",
+      "level": 2,
+      "hp": 20,
+      "armorClass": 14,
+      "attackBonus": 7,
+      "damageDice": "1d8",
+      "damageBonus": 3,
+      "description": "A small but feisty blueberry with a knack for scrapping with larger opponents."
+    },
+    {
+      "name": "Grapes of Wrath",
+      "level": 2,
+      "hp": 16,
+      "armorClass": 14,
+      "attackBonus": 6,
+      "damageDice": "1d8",
+      "description": "A bunch of grapes with a serious temper problem."
+    },
+    {
+      "name": "Avocado Avenger",
+      "level": 3,
+      "hp": 30,
+      "armorClass": 17,
+      "attackBonus": 9,
+      "damageDice": "2d8",
+      "description": "Creamy on the inside, this avocado is all business in a fight."
+    },
+    {
+      "name": "Orange Outlaw",
+      "level": 3,
+      "hp": 28,
+      "armorClass": 16,
+      "attackBonus": 8,
+      "damageDice": "2d6",
+      "description": "This orange is a renegade with a zest for mayhem."
+    },
+    {
+      "name": "Lime Lunatic",
+      "level": 3,
+      "hp": 26,
+      "armorClass": 15,
+      "attackBonus": 7,
+      "damageDice": "2d6",
+      "description": "A lime with a twist of madness, always ready for a lime-light showdown."
+    },
+    {
+      "name": "Kiwi Crusher",
+      "level": 3,
+      "hp": 32,
+      "armorClass": 18,
+      "attackBonus": 10,
+      "damageDice": "2d8",
+      "description": "This kiwi is small but packs a punch that can leave you seeing stars."
+    },
+
+    {
+      "name": "Giant Guacamole Golem",
+      "level": 4,
+      "hp": 60,
+      "armorClass": 19,
+      "attackBonus": 12,
+      "damageDice": "2d10",
+      "description": "A towering monstrosity made of mashed avocados, it's the guac that rocks the world."
+    },
+    {
+      "name": "Dragonfruit Daredevil",
+      "level": 4,
+      "hp": 55,
+      "armorClass": 18,
+      "attackBonus": 11,
+      "damageDice": "2d8",
+      "description": "A spiky daredevil with a taste for danger and dragon-sized thrills."
+    },
+    {
+      "name": "Raspberry Renegade",
+      "level": 4,
+      "hp": 42,
+      "armorClass": 16,
+      "attackBonus": 10,
+      "damageDice": "1d12",
+      "damageBonus": 5,
+      "description": "A rogue raspberry with a taste for chaos, striking swiftly and unpredictably."
+    },
+    {
+      "name": "Crazy Citrus Clown",
+      "level": 5,
+      "hp": 70,
+      "armorClass": 20,
+      "attackBonus": 14,
+      "damageDice": "3d6",
+      "description": "A zesty jester who juggles citrus fruits and chaos with equal skill."
+    },
+    {
+      "name": "Pomegranate Plunderer",
+      "level": 5,
+      "hp": 68,
+      "armorClass": 19,
+      "attackBonus": 13,
+      "damageDice": "3d8",
+      "description": "This pomegranate is out to plunder and pilfer the juiciest treasures."
+    },
+
+    {
+      "name": "Melon Mauler",
+      "level": 6,
+      "hp": 85,
+      "armorClass": 21,
+      "attackBonus": 16,
+      "damageDice": "3d10",
+      "description": "A melon on a rampage, smashing everything in its path."
+    },
+    {
+      "name": "Blueberry Berserker",
+      "level": 6,
+      "hp": 80,
+      "armorClass": 20,
+      "attackBonus": 15,
+      "damageDice": "3d8",
+      "description": "This tiny blueberry goes berserk in battle, causing berry mayhem."
+    },
+    {
+      "name": "Raging Raspberry",
+      "level": 6,
+      "hp": 88,
+      "armorClass": 20,
+      "attackBonus": 17,
+      "damageDice": "3d8",
+      "description": "A raspberry with an uncontrollable temper, wreaking havoc in the orchard."
+    },
+    {
+      "name": "Bitter Orange Bruiser",
+      "level": 7,
+      "hp": 100,
+      "armorClass": 23,
+      "attackBonus": 19,
+      "damageDice": "4d8",
+      "description": "This sour orange has a mean left hook and a bad attitude."
+    },
+    {
+      "name": "Citrus Sultan",
+      "level": 7,
+      "hp": 95,
+      "armorClass": 22,
+      "attackBonus": 18,
+      "damageDice": "4d6",
+      "description": "The ruler of all citrus fruits, commanding an army of zesty zealots."
+    },
+    {
+      "name": "Mighty Mango Monarch",
+      "level": 7,
+      "hp": 90,
+      "armorClass": 21,
+      "attackBonus": 17,
+      "damageDice": "4d8",
+      "description": "A regal mango with the power to shake kingdoms and trees alike."
+    },
+    {
+      "name": "FruitPocalypse",
+      "level": 8,
+      "hp": 120,
+      "armorClass": 24,
+      "attackBonus": 20,
+      "damageDice": "4d10",
+      "description": "The ultimate FruitPunk villain, bringing about the end of fruit-kind."
+    },
+    {
+      "name": "Mango Mania",
+      "level": 8,
+      "hp": 130,
+      "armorClass": 25,
+      "attackBonus": 22,
+      "damageDice": "4d10",
+      "description": "A mango on a rampage, causing chaos with every juicy bite."
+    },
+    {
+      "name": "Pummeling Papaya",
+      "level": 9,
+      "hp": 140,
+      "armorClass": 26,
+      "attackBonus": 23,
+      "damageDice": "4d10",
+      "description": "A papaya with fists of fury, smashing through everything in its path."
+    },
+    {
+      "name": "Mega Melon Marauder",
+      "level": 9,
+      "hp": 110,
+      "armorClass": 23,
+      "attackBonus": 19,
+      "damageDice": "4d8",
+      "description": "A colossal melon on a rampage, smashing entire orchards to pieces."
+    },
+    {
+      "name": "Cosmic Citrus Czar",
+      "level": 10,
+      "hp": 150,
+      "armorClass": 25,
+      "attackBonus": 22,
+      "damageDice": "5d10",
+      "description": "A citrus fruit from another dimension, wielding the power of the cosmos."
+    },
+    {
+      "name": "Pineapple Overlord",
+      "level": 11,
+      "hp": 180,
+      "armorClass": 26,
+      "attackBonus": 24,
+      "damageDice": "6d10",
+      "description": "The ruler of all pineapples, with an army of spiky minions at its disposal."
+    },
+    {
+      "name": "Mango Madness",
+      "level": 12,
+      "hp": 200,
+      "armorClass": 27,
+      "attackBonus": 26,
+      "damageDice": "6d12",
+      "description": "A mango-driven mad by the taste of power, wreaking havoc on the fruit world."
+    },
+    {
+      "name": "Banana Tyrant",
+      "level": 13,
+      "hp": 220,
+      "armorClass": 28,
+      "attackBonus": 28,
+      "damageDice": "7d12",
+      "description": "A banana with delusions of grandeur, seeking to conquer all fruits."
+    },
+    {
+      "name": "Avocado Apocalypse",
+      "level": 14,
+      "hp": 240,
+      "armorClass": 29,
+      "attackBonus": 30,
+      "damageDice": "7d12",
+      "description": "The end is near when the Avocado Apocalypse arrives, with its guacamole of doom."
+    },
+    {
+      "name": "Mega-Melon Monster",
+      "level": 15,
+      "hp": 260,
+      "armorClass": 30,
+      "attackBonus": 32,
+      "damageDice": "8d12",
+      "description": "A melon of monstrous proportions, capable of crushing entire kingdoms."
+    },
+    {
+      "name": "FruitPunk Overload",
+      "level": 16,
+      "hp": 300,
+      "armorClass": 32,
+      "attackBonus": 35,
+      "damageDice": "8d12",
+      "description": "The ultimate FruitPunk villain, with power beyond imagination."
+    },
+    {
+        "name": "Giga Grape God",
+        "level": 15,
+        "hp": 500,
+        "armorClass": 30,
+        "attackBonus": 50,
+        "damageDice": "10d12",
+        "description": "A divine grape entity with power beyond imagination, capable of creating and destroying entire vineyards at will."
+      },
+      {
+        "name": "Mango Majesty",
+        "level": 16,
+        "hp": 600,
+        "armorClass": 32,
+        "attackBonus": 55,
+        "damageDice": "12d12",
+        "description": "The supreme ruler of all mangoes, commanding an army of fruit followers and controlling the very essence of tropical sweetness."
+      },
+      {
+        "name": "Watermelon Warlord",
+        "level": 17,
+        "hp": 700,
+        "armorClass": 34,
+        "attackBonus": 60,
+        "damageDice": "15d12",
+        "description": "A colossal watermelon deity, capable of unleashing devastating tidal waves of juice and destruction."
+      },
+      {
+        "name": "Pomegranate Primordial",
+        "level": 18,
+        "hp": 800,
+        "armorClass": 36,
+        "attackBonus": 65,
+        "damageDice": "18d12",
+        "description": "An ancient pomegranate being, its seeds contain the secrets of the universe and the power to reshape reality."
+      },
+      {
+        "name": "Banana Deity",
+        "level": 20,
+        "hp": 1000,
+        "armorClass": 40,
+        "attackBonus": 70,
+        "damageDice": "20d12",
+        "description": "The ultimate fruit god, possessing the knowledge of all fruits and the ability to create or end fruit civilizations with a thought."
+      }
+  ]
+}

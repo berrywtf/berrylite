@@ -1,0 +1,128 @@
+{
+  "ArmorData": [
+    {
+      "Light": [
+        {
+          "name": "Padded Vine Armor",
+          "cost": "2s",
+          "description": "Light armor made from interwoven vines, offering basic protection.",
+          "ac_bonus": 1
+        },
+        {
+          "name": "Leather Berry Armor",
+          "cost": "10s",
+          "description": "Armor crafted from toughened berry skins, flexible yet sturdy.",
+          "ac_bonus": 2
+        },
+        {
+          "name": "Studded Citrus Leather",
+          "cost": "25s",
+          "description": "Leather armor reinforced with hardened citrus peels for extra resilience.",
+          "ac_bonus": 3
+        },
+        {
+          "name": "Chain Shirt of Sprouting Links",
+          "cost": "100s",
+          "description": "A chain shirt with links resembling sprouting seeds, light and durable.",
+          "ac_bonus": 4
+        }
+      ]
+    },
+    {
+      "Medium": [
+        {
+          "name": "Hide Armor of the Forest Beast",
+          "cost": "15s",
+          "description": "Armor made from the hide of forest creatures, offering good protection.",
+          "ac_bonus": 3
+        },
+        {
+          "name": "Scale Mail of the Dragonfruit",
+          "cost": "50s",
+          "description": "Scale mail with scales resembling the tough skin of a dragonfruit.",
+          "ac_bonus": 4
+        },
+        {
+          "name": "Chainmail of the Entwined Vines",
+          "cost": "150s",
+          "description": "Strong chainmail, each link like the entwined vines of a robust plant.",
+          "ac_bonus": 5
+        },
+        {
+          "name": "Breastplate of the Ironbark",
+          "cost": "200s",
+          "description": "A breastplate as sturdy as ironbark, offering solid protection.",
+          "ac_bonus": 5
+        }
+      ]
+    },
+    {
+      "Heavy": [
+        {
+          "name": "Splint Mail of the Thorned Guardian",
+          "cost": "200s",
+          "description": "Heavy armor with splints sharp as thorns, intimidating and protective.",
+          "ac_bonus": 6
+        },
+        {
+          "name": "Banded Mail of the Rind Warrior",
+          "cost": "250s",
+          "description": "Banded mail crafted from hardened rinds, tough and imposing.",
+          "ac_bonus": 6
+        },
+        {
+          "name": "Half-Plate of the Orchard Knight",
+          "cost": "600s",
+          "description": "Half-plate armor adorned with motifs of fruits and leaves, robust and elegant.",
+          "ac_bonus": 7
+        },
+        {
+          "name": "Full Plate of the Grove Champion",
+          "cost": "1500s",
+          "description": "Magnificent full plate armor, embodying the strength and majesty of the grove.",
+          "ac_bonus": 8
+        }
+      ]
+    },
+    {
+      "Shields": [
+        {
+          "name": "Buckler of the Quick Vine",
+          "cost": "15s",
+          "description": "A small, quick-to-deploy buckler, as agile as a vine in the wind.",
+          "ac_bonus": 1
+        },
+        {
+          "name": "Light Wooden Shield of the Sapling",
+          "cost": "3s",
+          "description": "A light shield made from the wood of a young sapling, easy to handle.",
+          "ac_bonus": 1
+        },
+        {
+          "name": "Light Steel Shield of the Ironleaf",
+          "cost": "9s",
+          "description": "A light but sturdy shield, made from steel as tough as ironleaf.",
+          "ac_bonus": 1
+        },
+        {
+          "name": "Heavy Wooden Shield of the Ancient Oak",
+          "cost": "7s",
+          "description": "A heavy shield made from the wood of an ancient oak, offering solid defense.",
+          "ac_bonus": 2
+        },
+        {
+          "name": "Heavy Steel Shield of the Fortress Fruit",
+          "cost": "20s",
+          "description": "A heavy steel shield, as impenetrable as the shell of a fortress fruit.",
+          "ac_bonus": 2
+        },
+        {
+          "name": "Tower Shield of the Great Tree",
+          "cost": "30s",
+          "description": "A towering shield, offering extensive protection, like the great trees of the forest.",
+          "ac_bonus": 4
+        }
+      ]
+    }
+  ]
+}
